@@ -1,0 +1,15 @@
+/home/oem/Trybe/aceleracaoC#/strings/join/bin/Debug/net6.0/join
+/home/oem/Trybe/aceleracaoC#/strings/join/bin/Debug/net6.0/join.deps.json
+/home/oem/Trybe/aceleracaoC#/strings/join/bin/Debug/net6.0/join.runtimeconfig.json
+/home/oem/Trybe/aceleracaoC#/strings/join/bin/Debug/net6.0/join.dll
+/home/oem/Trybe/aceleracaoC#/strings/join/bin/Debug/net6.0/join.pdb
+/home/oem/Trybe/aceleracaoC#/strings/join/obj/Debug/net6.0/join.csproj.AssemblyReference.cache
+/home/oem/Trybe/aceleracaoC#/strings/join/obj/Debug/net6.0/join.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Trybe/aceleracaoC#/strings/join/obj/Debug/net6.0/join.AssemblyInfoInputs.cache
+/home/oem/Trybe/aceleracaoC#/strings/join/obj/Debug/net6.0/join.AssemblyInfo.cs
+/home/oem/Trybe/aceleracaoC#/strings/join/obj/Debug/net6.0/join.csproj.CoreCompileInputs.cache
+/home/oem/Trybe/aceleracaoC#/strings/join/obj/Debug/net6.0/join.dll
+/home/oem/Trybe/aceleracaoC#/strings/join/obj/Debug/net6.0/refint/join.dll
+/home/oem/Trybe/aceleracaoC#/strings/join/obj/Debug/net6.0/join.pdb
+/home/oem/Trybe/aceleracaoC#/strings/join/obj/Debug/net6.0/join.genruntimeconfig.cache
+/home/oem/Trybe/aceleracaoC#/strings/join/obj/Debug/net6.0/ref/join.dll

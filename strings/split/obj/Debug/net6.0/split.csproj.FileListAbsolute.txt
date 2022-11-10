@@ -1,0 +1,15 @@
+/home/oem/Trybe/aceleracaoC#/strings/split/bin/Debug/net6.0/split
+/home/oem/Trybe/aceleracaoC#/strings/split/bin/Debug/net6.0/split.deps.json
+/home/oem/Trybe/aceleracaoC#/strings/split/bin/Debug/net6.0/split.runtimeconfig.json
+/home/oem/Trybe/aceleracaoC#/strings/split/bin/Debug/net6.0/split.dll
+/home/oem/Trybe/aceleracaoC#/strings/split/bin/Debug/net6.0/split.pdb
+/home/oem/Trybe/aceleracaoC#/strings/split/obj/Debug/net6.0/split.csproj.AssemblyReference.cache
+/home/oem/Trybe/aceleracaoC#/strings/split/obj/Debug/net6.0/split.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Trybe/aceleracaoC#/strings/split/obj/Debug/net6.0/split.AssemblyInfoInputs.cache
+/home/oem/Trybe/aceleracaoC#/strings/split/obj/Debug/net6.0/split.AssemblyInfo.cs
+/home/oem/Trybe/aceleracaoC#/strings/split/obj/Debug/net6.0/split.csproj.CoreCompileInputs.cache
+/home/oem/Trybe/aceleracaoC#/strings/split/obj/Debug/net6.0/split.dll
+/home/oem/Trybe/aceleracaoC#/strings/split/obj/Debug/net6.0/refint/split.dll
+/home/oem/Trybe/aceleracaoC#/strings/split/obj/Debug/net6.0/split.pdb
+/home/oem/Trybe/aceleracaoC#/strings/split/obj/Debug/net6.0/split.genruntimeconfig.cache
+/home/oem/Trybe/aceleracaoC#/strings/split/obj/Debug/net6.0/ref/split.dll

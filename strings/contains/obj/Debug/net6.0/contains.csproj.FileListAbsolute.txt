@@ -1,0 +1,5 @@
+/home/oem/Trybe/aceleracaoC#/strings/contains/obj/Debug/net6.0/contains.csproj.AssemblyReference.cache
+/home/oem/Trybe/aceleracaoC#/strings/contains/obj/Debug/net6.0/contains.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Trybe/aceleracaoC#/strings/contains/obj/Debug/net6.0/contains.AssemblyInfoInputs.cache
+/home/oem/Trybe/aceleracaoC#/strings/contains/obj/Debug/net6.0/contains.AssemblyInfo.cs
+/home/oem/Trybe/aceleracaoC#/strings/contains/obj/Debug/net6.0/contains.csproj.CoreCompileInputs.cache

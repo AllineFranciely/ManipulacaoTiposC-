@@ -1,0 +1,15 @@
+/home/oem/Trybe/aceleracaoC#/strings/indexof/bin/Debug/net6.0/indexof
+/home/oem/Trybe/aceleracaoC#/strings/indexof/bin/Debug/net6.0/indexof.deps.json
+/home/oem/Trybe/aceleracaoC#/strings/indexof/bin/Debug/net6.0/indexof.runtimeconfig.json
+/home/oem/Trybe/aceleracaoC#/strings/indexof/bin/Debug/net6.0/indexof.dll
+/home/oem/Trybe/aceleracaoC#/strings/indexof/bin/Debug/net6.0/indexof.pdb
+/home/oem/Trybe/aceleracaoC#/strings/indexof/obj/Debug/net6.0/indexof.csproj.AssemblyReference.cache
+/home/oem/Trybe/aceleracaoC#/strings/indexof/obj/Debug/net6.0/indexof.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Trybe/aceleracaoC#/strings/indexof/obj/Debug/net6.0/indexof.AssemblyInfoInputs.cache
+/home/oem/Trybe/aceleracaoC#/strings/indexof/obj/Debug/net6.0/indexof.AssemblyInfo.cs
+/home/oem/Trybe/aceleracaoC#/strings/indexof/obj/Debug/net6.0/indexof.csproj.CoreCompileInputs.cache
+/home/oem/Trybe/aceleracaoC#/strings/indexof/obj/Debug/net6.0/indexof.dll
+/home/oem/Trybe/aceleracaoC#/strings/indexof/obj/Debug/net6.0/refint/indexof.dll
+/home/oem/Trybe/aceleracaoC#/strings/indexof/obj/Debug/net6.0/indexof.pdb
+/home/oem/Trybe/aceleracaoC#/strings/indexof/obj/Debug/net6.0/indexof.genruntimeconfig.cache
+/home/oem/Trybe/aceleracaoC#/strings/indexof/obj/Debug/net6.0/ref/indexof.dll
