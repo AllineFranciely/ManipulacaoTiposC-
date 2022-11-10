@@ -1,0 +1,15 @@
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/strings/interpolacao/obj/Debug/net6.0/interpolacao.csproj.AssemblyReference.cache
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/strings/interpolacao/obj/Debug/net6.0/interpolacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/strings/interpolacao/obj/Debug/net6.0/interpolacao.AssemblyInfoInputs.cache
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/strings/interpolacao/obj/Debug/net6.0/interpolacao.AssemblyInfo.cs
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/strings/interpolacao/obj/Debug/net6.0/interpolacao.csproj.CoreCompileInputs.cache
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/strings/interpolacao/bin/Debug/net6.0/interpolacao
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/strings/interpolacao/bin/Debug/net6.0/interpolacao.deps.json
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/strings/interpolacao/bin/Debug/net6.0/interpolacao.runtimeconfig.json
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/strings/interpolacao/bin/Debug/net6.0/interpolacao.dll
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/strings/interpolacao/bin/Debug/net6.0/interpolacao.pdb
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/strings/interpolacao/obj/Debug/net6.0/interpolacao.dll
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/strings/interpolacao/obj/Debug/net6.0/refint/interpolacao.dll
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/strings/interpolacao/obj/Debug/net6.0/interpolacao.pdb
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/strings/interpolacao/obj/Debug/net6.0/interpolacao.genruntimeconfig.cache
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/strings/interpolacao/obj/Debug/net6.0/ref/interpolacao.dll
