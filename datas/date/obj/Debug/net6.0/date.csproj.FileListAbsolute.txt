@@ -1,0 +1,15 @@
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/date/bin/Debug/net6.0/date
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/date/bin/Debug/net6.0/date.deps.json
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/date/bin/Debug/net6.0/date.runtimeconfig.json
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/date/bin/Debug/net6.0/date.dll
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/date/bin/Debug/net6.0/date.pdb
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/date/obj/Debug/net6.0/date.csproj.AssemblyReference.cache
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/date/obj/Debug/net6.0/date.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/date/obj/Debug/net6.0/date.AssemblyInfoInputs.cache
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/date/obj/Debug/net6.0/date.AssemblyInfo.cs
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/date/obj/Debug/net6.0/date.csproj.CoreCompileInputs.cache
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/date/obj/Debug/net6.0/date.dll
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/date/obj/Debug/net6.0/refint/date.dll
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/date/obj/Debug/net6.0/date.pdb
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/date/obj/Debug/net6.0/date.genruntimeconfig.cache
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/date/obj/Debug/net6.0/ref/date.dll
