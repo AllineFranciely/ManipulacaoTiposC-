@@ -1,0 +1,15 @@
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/compare/bin/Debug/net6.0/compare
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/compare/bin/Debug/net6.0/compare.deps.json
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/compare/bin/Debug/net6.0/compare.runtimeconfig.json
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/compare/bin/Debug/net6.0/compare.dll
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/compare/bin/Debug/net6.0/compare.pdb
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/compare/obj/Debug/net6.0/compare.csproj.AssemblyReference.cache
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/compare/obj/Debug/net6.0/compare.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/compare/obj/Debug/net6.0/compare.AssemblyInfoInputs.cache
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/compare/obj/Debug/net6.0/compare.AssemblyInfo.cs
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/compare/obj/Debug/net6.0/compare.csproj.CoreCompileInputs.cache
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/compare/obj/Debug/net6.0/compare.dll
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/compare/obj/Debug/net6.0/refint/compare.dll
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/compare/obj/Debug/net6.0/compare.pdb
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/compare/obj/Debug/net6.0/compare.genruntimeconfig.cache
+/home/oem/Trybe/aceleracaoC#/ManipulacaoTiposC#/datas/compare/obj/Debug/net6.0/ref/compare.dll
